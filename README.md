@@ -13,7 +13,7 @@ if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com
 
 https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom
-
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 <!--
 **SeokLii/SeokLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
