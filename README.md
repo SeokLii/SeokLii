@@ -12,12 +12,11 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img style="font-size=100" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-https://img.shields.io/badge/MySQL-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom <br/>
-https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom
+
 <!--
 **SeokLii/SeokLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
