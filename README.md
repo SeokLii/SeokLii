@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=BDECB6&height=110&section=header&text=SEO%30KLII&fontSize=70&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=soft&color=BDECB6&height=110&section=header&text=%30SEOKLII%30&fontSize=70&fontAlignY=55)
 ### ✋ Hi there 
 Hello !! Visitors <br/>
 I'm SeokLii, the 8th student president of EROOM Student council, Department of Software at Chungbuk National University.
