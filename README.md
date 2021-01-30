@@ -11,10 +11,15 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 ### 💬 Ask me about
 if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com <br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img whidth="12" height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&"/></a>
+<img whidth="12" height="24" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&"/></a>
+<img whidth="12" height="24" src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square&logo=Pyhton&logoColor=white&"/></a>
+
+
+<br />
 <img whidth="12" height="24" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white&"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img whidth="12" height="24" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&"/></a>
+<img whidth="12" height="24" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&"/></a>
 
 
 <!--
