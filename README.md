@@ -1,4 +1,4 @@
-### 👋 Hi there 
+### ✋ Hi there 
 Hello !! Visitors <br/>
 I'm SeokLii, the 8th student president of EROOM Student council, Department of Software at Chungbuk National University.
 
