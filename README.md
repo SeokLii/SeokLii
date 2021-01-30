@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-Hello !! Visitors
+Hello !! Visitors <br/>
 I'm SeokLii, the 8th student president of EROOM Student council, Department of Software at Chungbuk National University.
 
 ### 💎 Experience
@@ -8,7 +8,7 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 3. Development Application ENG Battery - (주)네오세미텍
 
 ### 💬 Ask me about
-if you want to ask me, please send me an email.
+if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com
 
 
