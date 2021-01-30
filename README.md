@@ -12,6 +12,10 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 https://img.shields.io/badge/MySQL-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom <br/>
 https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom
 https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
