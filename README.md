@@ -12,7 +12,7 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 if you want to ask me, please send me an email. <br/>
 Email : k1nder@naver.com
 
-https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white
+https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white&link=https://velog.io/@new_wisdom
 
 <!--
 **SeokLii/SeokLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
