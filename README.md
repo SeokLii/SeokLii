@@ -10,7 +10,7 @@ I'm SeokLii, the 8th student president of EROOM Student council, Department of S
 
 ### 💬 Ask me about
 if you want to ask me, please send me an email. <br/>
-Email : k1nder@naver.com <br/>
+Email : k1nder@naver.com <br/> <br/>
 <img whidth="12" height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&"/></a>
 <img whidth="12" height="24" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&"/></a>
 <img whidth="12" height="24" src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square&logo=Pyhton&logoColor=white&"/></a>
